@@ -1,0 +1,5 @@
+MONTHLY|Abdullah|Slot:2|Price:2000|Revenue:2210
+PARK|Abdullah|LTH-1459432|suv|Slot:2|Hour:2
+REMOVE|Abdullah|LTH-1459432|suv|Hours:21|Bill:630|Revenue:2840
+PARK|Abdullah|LEZ-8342|suv|Slot:2|Hour:10
+REMOVE|Abdullah|LEZ-8342|suv|Hours:2|Bill:60|Revenue:2900
